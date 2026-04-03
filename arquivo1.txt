@@ -1,3 +1,20 @@
 Faculdade Uniesp
 Curso: Ciências da Computação/Sistema para Internet
-Respondendo a lista de exercício do GitHub
+Respondendo a lista de exercício do GitHub:
+4. https://github.com/h5bp/html5-boilerplate
+https://github.com/aFarkas/html5shiv
+https://github.com/eligrey/FileSaver.js
+https://github.com/chartjs/Chart.js
+https://github.com/chartjs/Chart.js
+
+5. feito em sala
+
+6.https://github.com/luisfelipeveras/disciplinauniesp
+
+7. Ir em Configurações, depois em "Zona de Perigo", va em "Alterar a visibilidade do repositório" e selecione "Alterar para Privado"
+
+8. Ir em Configurações, depois em "Zona de Perigo", clique em "Deletar esse Repositório"
+
+9.  Ir no repositório, apertar em "adicionar arquivo", depois em "Upload files", e colocar a pasta.
+
+10. Fui no repositorio do guanabara, cliquei em "code" e depois em "Download ZIP", e só fiz mover para Documents
